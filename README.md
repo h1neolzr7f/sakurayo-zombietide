@@ -1,4 +1,4 @@
-# 🌸 樱夜·尸潮
+# 🌸 樱夜·尸潮 · Sakurayo: Zombie Tide
 
 ### v4.4.6 · 原创离线二次元肉鸽射击
 
@@ -18,6 +18,21 @@
 [路线图](ROADMAP.md) ·
 [参与贡献](CONTRIBUTING.md) ·
 [负责任使用](RESPONSIBLE_USE.md)
+
+<p align="center">
+  <img src="android-app/app/src/main/assets/game/art/stages/stage_1/cg.webp" alt="樱夜尸潮第一章过场" width="280">
+  <img src="android-app/app/src/main/assets/game/art/careers/swordSaint/splash.webp" alt="剑圣职业闪图" width="280">
+  <img src="android-app/app/src/main/assets/game/art/bosses/stage4_phase4.webp" alt="第四章 Boss 最终阶段" width="280">
+</p>
+
+> [!TIP]
+> **下载后即可离线玩。** 没有账号、广告、抽卡或 CDN；Android 进度只保存在本机。三名角色拥有不同攻击循环，14 个基础职业可转出 28 条分支，并继续组合跨职融合与三相飞升。
+
+<p align="center">
+  <strong><a href="https://github.com/h1neolzr7f/sakurayo-zombietide/releases/tag/v4.4.6">下载 v4.4.6 Android APK</a></strong>
+  ·
+  <a href="docs/user-guide.md">查看玩法</a>
+</p>
 
 > [!IMPORTANT]
 > **原创游戏。** 三角色、四章剧情、职业树和本仓库自制美术都属于本项目，不是任何现有商业游戏的同人、移植或资源提取。少量 UI 反馈音效使用 [Kenney](https://kenney.nl/) 的 CC0 素材，见 [第三方素材说明](docs/THIRD_PARTY_ASSETS.md)。维护者不为把本游戏冒充上架商店、传播签名密钥或清空他人存档提供支持。详见 [免责声明](DISCLAIMER.md)。
